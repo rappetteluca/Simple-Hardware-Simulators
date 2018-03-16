@@ -1,0 +1,41 @@
+insts: 0
+r-type: 0
+i-type: 0
+j-type: 0
+fwd-taken: 0
+bkw-taken: 0
+not-taken: 0
+loads: 0
+stores: 0
+reg-0: 0 0
+reg-1: 0 0
+reg-2: 0 0
+reg-3: 0 0
+reg-4: 0 0
+reg-5: 0 0
+reg-6: 0 0
+reg-7: 0 0
+reg-8: 0 0
+reg-9: 0 0
+reg-10: 0 0
+reg-11: 0 0
+reg-12: 0 0
+reg-13: 0 0
+reg-14: 0 0
+reg-15: 0 0
+reg-16: 0 0
+reg-17: 0 0
+reg-18: 0 0
+reg-19: 0 0
+reg-20: 0 0
+reg-21: 0 0
+reg-22: 0 0
+reg-23: 0 0
+reg-24: 0 0
+reg-25: 0 0
+reg-26: 0 0
+reg-27: 0 0
+reg-28: 0 0
+reg-29: 0 0
+reg-30: 0 0
+reg-31: 0 0
